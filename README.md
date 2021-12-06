@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Codingaid
-- 👀 I’m interested in computing science and programming leanguagues
+- 👀 I’m interested in computing science and programming languages
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
